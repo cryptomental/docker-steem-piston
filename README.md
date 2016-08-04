@@ -6,6 +6,7 @@ Docker image for steem-piston. Piston is the Swiss army knife for STEEM blockcha
 
 ## You can pull and run the image from Docker Hub:
 
+`$ docker pull cryptomental/steem-piston`
 `$ docker run -it cryptomental/steem-piston`
 
 ## Or build it yourself using this GitHub repo:
